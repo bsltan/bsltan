@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Sultan! <span class="wave">👋</span></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sultan</h1>
 
 <div align="center">
 <p>
@@ -26,3 +26,9 @@
 
 </p>
 </div>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Sbsltan">
+</a>
+<a href="https://github.com/bsltan?tab=followers"><img src="https://img.shields.io/github/followers/bsltan?label=Followers&style=social" alt="GitHub Badge"></a>
