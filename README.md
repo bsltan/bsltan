@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsltan)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
 
 <!---
 bsltan/bsltan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
