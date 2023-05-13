@@ -1,8 +1,31 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sultan</h1>
 
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=bsltan&show_icons=true&theme=jolly&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsltan&langs_count=8&theme=jolly&layout=compact" />
+</a>
+<br>
+
+<h3 align="center"> </h3>
+
+<br/>
+
+### Active Repositories
+
+| Repository | Description |
+| --- | --- |
+| [AlX-low_level_programming](https://github.com/dennisnderitu254/alx-low_level_programming) | C programming, functions, pointers, data structures (stacks/queues, singly/doubly linked list, hash tables, binary trees), algorithms(sorting, Big O), bit manipulation, recursion, variadic functions, memory management, heap/stack, static/dynamic libraries |
+| [Alx-system_engineering-devops](https://github.com/dennisnderitu254/alx-system_engineering-devops) | Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH |
+| [Alx-high_level_programming](https://github.com/dennisnderitu254/alx-higher_level_programming) | Python Loops and iterators, functions, test driven development, data structures and algorithms|
+
 <div align="center">
 <p>
-
+<h3 align="center"><br>Tools & Technologies</h3>
+  
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)
 ![HardHat](https://img.shields.io/badge/-Hardhat-05122A?style=flat&logo=hardhat)
@@ -23,13 +46,20 @@
 ![C++](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws)
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=bsltan&show_icons=true&theme=jolly&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsltan&langs_count=8&theme=jolly&layout=compact" />
-</a>
+<h3 align="center"><br>Major projects worked on in order:</h3>
 
+| Project name | Description |
+| --- | --- |
+|[Printf](https://github.com/bsltan/printf)| The program is designed to mimic the printf function in C.|
+|[Simple_Shell](https://github.com/bsltan/simple_shell)| The program is designed to mimic the abilities of a simple shell. |
+|[Monty](https://github.com/bsltan/monty) | Stacks, Queues - LIFO, FIFO |
+|[Sorting Algorithms](https://github.com/bsltan/sorting_algorithms) | Sorting Algorithms Implementation in C|
+|[RSA-Factoring-Challenge](https://github.com/bsltan/RSA-Factoring-Challenge) |RSA Factoring Challenge|
+|[AirBnB Clone](https://github.com/bsltan/AirBnB_clone) | AirBnB Clone Command Line Interface |
+|[Binary Trees](https://github.com/bsltan/binary_trees) | Binary Trees |
+|[Search Algorithms](https://github.com/bsltan/alx-low_level_programming/tree/master/0x1E-search_algorithms) | Search Algorithms |
+
+<br />
 <p> 
   <a href="https://twitter.com/BSultan_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/brian-sultan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
