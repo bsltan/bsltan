@@ -22,8 +22,7 @@
 | [Alx-system_engineering-devops](https://github.com/dennisnderitu254/alx-system_engineering-devops) | Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH |
 | [Alx-high_level_programming](https://github.com/dennisnderitu254/alx-higher_level_programming) | Python Loops and iterators, functions, test driven development, data structures and algorithms|
 
-<div align="center">
-<p>
+
 <h3 align="center"><br>Tools & Technologies</h3>
   
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
@@ -44,7 +43,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![C++](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws)
-</p>
+
 
 <h3 align="center"><br>Major projects worked on in order:</h3>
 
