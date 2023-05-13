@@ -58,13 +58,16 @@
 |[Binary Trees](https://github.com/bsltan/binary_trees) | Binary Trees |
 |[Search Algorithms](https://github.com/bsltan/alx-low_level_programming/tree/master/0x1E-search_algorithms) | Search Algorithms |
 
-<br />
-<p> 
-  <a href="https://twitter.com/BSultan_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/brian-sultan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
-</p>
-</div>
+<br />
+
+### Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+
+<p align="center">
+ <a href="https://github.com/bsltan"><img src="https://icons-for-free.com/iconfiles/png/512/code+collaboration+github+network+round+social+icon-1320086084536018107.png" alt="GitHub" width = 40px></a>
+ <a href="https://www.linkedin.com/in/brian-sultan/">.   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width = 40px></a>
+ <a href="https://www.twitter.com/BSultan_/">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width = 40px></a>
+
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
