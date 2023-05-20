@@ -19,7 +19,7 @@
 | Repository | Description |
 | --- | --- |
 | [AlX-low_level_programming](https://github.com/dennisnderitu254/alx-low_level_programming) | C programming, functions, pointers, data structures (stacks/queues, singly/doubly linked list, hash tables, binary trees), algorithms(sorting, Big O), bit manipulation, recursion, variadic functions, memory management, heap/stack, static/dynamic libraries |
-| [Alx-system_engineering-devops](https://github.com/dennisnderitu254/alx-system_engineering-devops) | Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH |
+| [Alx-system_engineering-devops](https://github.com/dennisnderitu254/alx-system_engineering-devops) | Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH, Firewall, What happens when you type google.com in your browser and press Enter |
 | [Alx-high_level_programming](https://github.com/dennisnderitu254/alx-higher_level_programming) | Python Loops and iterators, functions, test driven development, data structures and algorithms|
 
 
@@ -57,6 +57,7 @@
 |[AirBnB Clone](https://github.com/bsltan/AirBnB_clone) | AirBnB Clone Command Line Interface |
 |[Binary Trees](https://github.com/bsltan/binary_trees) | Binary Trees |
 |[Search Algorithms](https://github.com/bsltan/alx-low_level_programming/tree/master/0x1E-search_algorithms) | Search Algorithms |
+|[Fix_My_Code_Challenge](https://github.com/bsltan/Fix_My_Code_Challenge) | Debugging |
 
 
 <br />
