@@ -18,6 +18,7 @@
 
 | Repository | Description |
 | --- | --- |
+| [alx-frontend](https://github.com/bsltan/alx-frontend) | Advanced html |
 | [alx-frontend-javascript](https://github.com/bsltan/alx-frontend-javascript) | ES6 Basics, ES6 Promises |
 | [alx-interview](https://github.com/bsltan/alx-interview) | Pascal's Triangle |
 
