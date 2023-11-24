@@ -20,7 +20,7 @@
 
 </h4>
 
-![Cert(17-short-specializations-certificate-brian-surtan.png)
+![alx](ALX-Certificate.png)
 
 ### Active Repositories
 
