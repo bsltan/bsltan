@@ -16,10 +16,11 @@
 <h4>
 
 
-<p align="center">Completed The ALX Software Engineering Programme</p>
+<p align="center">Completed The ALX Software Engineering Programme And AI Career Essentials</p>
 
 </h4>
 
+![alx](17-short-specializations-certificate-brian-surtan.png)
 ![alx](17-short-specializations-certificate-brian-surtan.png)
 
 ### Active Repositories
