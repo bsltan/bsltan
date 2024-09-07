@@ -21,7 +21,7 @@
 </h4>
 
 ![alx](17-short-specializations-certificate-brian-surtan.png)
-![alx](17-short-specializations-certificate-brian-surtan.png)
+![alx](73-alx-aice-ai-career-essentials-certificate-brian-surtan.png)
 
 ### Active Repositories
 
